@@ -1,2 +1,14 @@
 # Python-Course
-My Python learning journey – contains only code examples I practiced while learning. (Notes are maintained separately in my notebook.)
+
+This repository contains my **Python learning journey** – concepts, examples, and notes while practicing step by step.  
+
+### 📂 Contents
+- Basics (Variables, Data Types, Operators, Input/Output)  
+- Strings (Slicing, Methods, Exercises)  
+- Control Flow (If-Else, Loops)  
+- Functions (Coming soon...)  
+- Data Structures (Coming soon...)  
+
+### 🎯 Goal
+To build a strong foundation in Python before moving into **Data Analytics** and **Data Science**.
+
